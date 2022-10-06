@@ -1,0 +1,11 @@
+.topicbox{
+    border-radius: 10px;
+    color: red;
+    background-color:royalblue;
+    height: 100px;
+    width: auto;
+}
+.topicText{
+    font-size: 85px;
+    color: aliceblue;
+}

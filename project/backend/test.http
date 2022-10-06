@@ -1,0 +1,35 @@
+# POST http://localhost:4000/app/signup
+# Content-Type: application/json
+
+# {
+#     "fullName":"pubudu4",
+#     "username":"sliit",
+#     "email":"pubudu#gmail.com",
+#     "password":"123456789",
+#     "vehicalnumber":"cpGE2567",
+#     "qrcode":"awdfsRASKFG[PAKS[GFASKGK[AKG[ASP[GKAS[KG[SAKG[SAKGSAK[SKA[G"
+
+
+# }
+# # GET  http://localhost:4000/app/read/sadsad
+# # Content-Type: application/json
+
+# PUT  http://localhost:4000/app/update/cpGE2567
+# Content-Type: application/json
+
+# {
+#     "quata":"10"
+# # }
+# POST   http://localhost:4000/app/insertvehical
+# Content-Type: application/json
+
+# {
+#     "vehicalnumber":"CS5896",
+#      "vehicaltype" :"THREEWHEEL",
+#      "quata" :"11"
+# }
+
+
+
+GET  http://localhost:4000/app/rmbsearch/GE2567
+Content-Type: application/json
